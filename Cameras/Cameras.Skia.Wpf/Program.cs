@@ -1,0 +1,4 @@
+﻿
+namespace Cameras.Skia.Gtk
+{
+}
